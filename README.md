@@ -1,5 +1,5 @@
-# googlesearch
-implemented search result of google
+# Googlesearch
+Implemented search result of google
 # Search Page
 
 This is a simple search page project that mimics Google's search results page. It uses HTML, CSS, jQuery, and AJAX.
